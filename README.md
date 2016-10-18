@@ -1,2 +1,2 @@
-# APLAI_1516
-Advanced Programming Languages in AI 2015-2016
+# Advanced Programming Languages in AI 2015-2016
+This course is taught in KU Leuven. While the project was implemented in two languages, only the implementation in ECLiPSe is shown here. Sudoku and Shikaku puzzles are solved efficiently through good use of deep propagation.
